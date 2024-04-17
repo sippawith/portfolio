@@ -1,7 +1,7 @@
 # Portfoilio
 
 # About Me
-**My name is Sippawit Thongkong. I am 15 years old student currently studying Intensive English Programme at Ammartpanichnukul School at Krabi, Thailand.
+### My name is Sippawit Thongkong. I am 15 years old student currently studying Intensive English Programme at Ammartpanichnukul School at Krabi, Thailand.
 
 ## Education
 - Intensive English Programme | Ammartpanichnukul School (_M4 - M6_)
